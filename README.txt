@@ -4,3 +4,4 @@
 
 - This album is mainly orginized by locations.
 - 本相册主要以地点进行布局设计，记录自己的行程以及点滴。
+欢迎fork
