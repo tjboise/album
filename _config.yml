@@ -82,11 +82,11 @@ label2:  </span>
 
 links1:
   - name:         All
-    url:          /blog
+    url:          /album
     type:         recent
     external:     false
   - name:         2023
-    url:          /myblog/essays/index.html
+    url:          album/myblog/essays/index.html
     type:         essays
     external:     false
   - name:         2022
