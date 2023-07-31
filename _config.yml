@@ -81,15 +81,15 @@ label2:  </span>
 
 
 links1:
-  - name:         所有
+  - name:         All
     url:          /blog
     type:         recent
     external:     false
-  - name:         随笔
+  - name:         2023
     url:          /blogdemo/myblog/essays
     type:         essays
     external:     false
-  - name:         Jekyll
+  - name:         2022
     url:          /blogdemo/myblog/jekyll
     type:         jekyll
     external:     false
