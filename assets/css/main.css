@@ -1096,7 +1096,7 @@ pre code {
 .post-card .post-card-image {
   display: block;
   width: 100%;
-  min-height: 100px;
+  min-height: 100%;
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -1127,9 +1127,9 @@ pre code {
 .post-card .post-card-body .post-card-title {
   font-family: 'Lato', sans-serif;
   font-weight: 700;
-  font-size: 18px;
+  font-size: 10px;
   color: #fff;
-  margin: 0 0 10px;
+  margin: 0 0 5px;
 }
 /*text-transform: uppercase;*/
 
@@ -1139,7 +1139,7 @@ pre code {
 
 .post-card .post-card-body .tag {
   text-decoration: none;
-  font-size: 10px;
+  font-size: 6px;
   color: #fff;
 }
 /*text-transform: uppercase;*/
