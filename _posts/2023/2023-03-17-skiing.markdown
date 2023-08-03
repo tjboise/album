@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First time in Blue-Level lane
+title: First time in Blue-Level Lane
 date:  2023-03-17
 description: Skiing in Bogus Basin
 img: skiing.JPEG # Add image post (optional)
