@@ -1,11 +1,11 @@
 ---
 layout: post
-title: First Starbucks in Seattle
-date:  2023-03-26
-description: Pike Place Market
-img: first-starbucks.JPG # Add image post (optional)
-tags: [2023,03,26]
-author: TJ
+title: First time in Blue-Level lane
+date:  2023-03-17
+description: Skiing in Bogus Basin
+img: skiing.JPG # Add image post (optional)
+tags: [2023,03,17]
+author: Royal
 jekyll: true
 ---
 
