@@ -1,4 +1,4 @@
-title: Blog - Tianjie Zhang
+title: Blog - Tianjie Zhang's Album
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -11,7 +11,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 author: Tianjie Zhang
 
 author-pic: leach-face.jpg
-about-author: I am an Android developer.I will add description latter.
+about-author: Hi there
 
 #修改成你自己的
 # Contact links
@@ -25,7 +25,7 @@ pinterest: # Add your Pinterest handle
 #修改成你自己的
 email: tjzhang@u.boisestate.edu
 phone: 986-888-2443
-github:
+github: https://github.com/tjboise
 jianshu:
 juejin:
 csdn:
@@ -65,11 +65,11 @@ imagepath: /blogdemo
 
 links:
   - name:         Home
+    url:          https://github.com/tjboise
+    external:     false
+  - name:         About
     url:          https://tjboise.github.io/resume/
     external:     false
-  # - name:         About
-  #   url:          /blogdemo/about
-  #   external:     false
 
 #添加分类步骤：
 #1：在_config.yml links1及blog_中添加对应内容
@@ -86,11 +86,11 @@ links1:
     type:         recent
     external:     false
   - name:         2023
-    url:          album/myblog/essays/index.html
+    url:          myblog/essays
     type:         essays
     external:     false
   - name:         2022
-    url:          /myblog/jekyll
+    url:          myblog/jekyll
     type:         jekyll
     external:     false
 
