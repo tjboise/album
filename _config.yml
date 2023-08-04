@@ -86,11 +86,15 @@ links1:
     type:         recent
     external:     false
   - name:         2023
-    url:          myblog/essays
+    url:          myblog/2023
     type:         essays
     external:     false
   - name:         2022
-    url:          myblog/jekyll
+    url:          myblog/2022
+    type:         jekyll
+    external:     false
+  - name:         2021
+    url:          myblog/2021
     type:         jekyll
     external:     false
 
