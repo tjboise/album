@@ -98,10 +98,10 @@ links1:
     type:         jekyll
     external:     false
 
-blog_1:    recent
-blog_2:    essays
-blog_3:    jekyll
-blog_4:    jk
+# blog_1:    recent
+# blog_2:    essays
+# blog_3:    jekyll
+# blog_4:    jk
 
 
 #permalink: /:year/:month/:day/:title.html
