@@ -1,0 +1,12 @@
+---
+layout: post
+title: Chicgo
+date:  2022-12-29 
+description: 
+img: chicgo360.JPG # Add image post (optional)
+tags: [2022,12,29]
+author: unknown
+essays: true
+---
+
+

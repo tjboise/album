@@ -1,0 +1,12 @@
+---
+layout: post
+title: Michigan tour
+date:  2022-12-26 
+description: 德国小镇
+img: anarbor.JPG # Add image post (optional)
+tags: [2022,12,26]
+author: Starnger
+essays: true
+---
+
+
