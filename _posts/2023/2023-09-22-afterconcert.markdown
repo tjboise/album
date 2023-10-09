@@ -1,6 +1,6 @@
 ---
 layout: post
-title: a diary qureen party after concert
+title: A Dairy Queen Party after Concert
 date:  2023-09-22
 description: Very Fun!
 img: afterconcert.JPG # Add image post (optional)
